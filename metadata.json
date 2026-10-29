@@ -1,0 +1,6 @@
+{
+  "name": "Bentala Aksara Bestari - Publishing Dashboard & Keuangan",
+  "description": "Dashboard eksekutif penerbitan buku Bentala Aksara Bestari untuk pemantauan leads, status naskah, penulis, pemesanan, penjualan, dan laporan keuangan terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
